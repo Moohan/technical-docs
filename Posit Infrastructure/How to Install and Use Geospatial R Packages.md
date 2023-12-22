@@ -140,8 +140,7 @@ install.packages("sp",
                  Ncpus = ncpus)
 
 # Install the {raster} package
-install.packages("https://ppm.publichealthscotland.org/all-r/latest/src/contrib/Archive/raster/raster_2.5-8.tar.gz",
-                 repos = NULL,
+install.packages("raster",
                  type = "source",
                  configure.args = geo_config_args,
                  INSTALL_opts = "--no-test-load",
