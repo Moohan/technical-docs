@@ -7,7 +7,7 @@
 
 ## New user
 
-If you're new to Posit Workbench and require that for your role, a user account and relevant access is set up by DaS (which includes access to Posit Package Manager). This follows a similar process to 'Access to Data', and requires line manager approval and is subject to the [Acceptable Usage Policy](Acceptable%20Usage%20Policy%20for%20Posit%20Workbench.md). This includes the deactivation of inactive accounts, if this affects you, see [Deactived User](#deactivated-user).
+If you're new to Posit Workbench and require access for your role, a user account and relevant access is set up by DaS (which includes access to Posit Package Manager). This follows a similar process to 'Access to Data', requires line manager approval, and is subject to the [Acceptable Usage Policy](Acceptable%20Usage%20Policy%20for%20Posit%20Workbench.md). This includes the deactivation of inactive accounts; if this affects you, see [Deactivated User](#deactivated-user).
 
 1. Go to [ServiceNow](https://nhsnss.service-now.com/phs/) > Digital & Security > Service Catalog > Make a Request
 2. Select 'Corporate Applications' as the Product or Service
@@ -19,7 +19,7 @@ If you're new to Posit Workbench and require that for your role, a user account 
 
 As part of the standard licence management processes for Posit, to keep us compliant with our licence agreement, we regularly review activity across the platform. Where accounts are found to be inactive, you will receive communication about the deactivation of your account. This process maintains user settings and data, with reactivation prioritised to be expected within 48 hours. 
 
-To request reactivation email the Data Science team ([phs.datascience@phs.scot](mailto:phs.datascience@phs.scot)) **with your LDAP username** and this will be actioned. 
+To request reactivation, email the Data Science team ([phs.datascience@phs.scot](mailto:phs.datascience@phs.scot)) **with your LDAP username** and this will be actioned. 
 
 ## Logging in
 

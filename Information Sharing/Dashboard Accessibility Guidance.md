@@ -27,7 +27,7 @@ Consider the overall layout and usability of the dashboard. Dashboards should id
 
 ## Automated testing tools
 
-There are a number of tools available for testing accessibility. Amongst the most useful are, including:
+There are a number of tools available for testing accessibility, including:
 
 * Chrome browser extensions:
   * The [axe browser extension](https://www.deque.com/axe/browser-extensions/) is useful for running automated and guided tests on targeted web pages. Signing up to axe beta allows you to export results and run all automatic tests.
@@ -113,10 +113,10 @@ There are a number of tools available for testing accessibility. Amongst the mos
     * splitting up charts
   * use subtle colour changes to indicate extreme outliers
   * rely solely on sensory characteristics of components such as shape, color, size, visual location, orientation, or sound (see [Sensory characteristics WCAG 1.3.3](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html))
-  * have internal scroll bars on large chunks of text o use borders and backgrounds for charts
+  * have internal scroll bars on large chunks of text or use borders and backgrounds for charts
   * use text that is too small
   * use white space/images as padding
-  * map tool tips underlinked like links when they are not links.
+  * map tool tips unlinked like links when they are not links.
 
 ## Branding and corporate colours
 
@@ -124,7 +124,7 @@ The logo must be presented in accordance with PHS branding guidelines and style 
 
 ### Colour palette for digital products
 
-The below tables show the main and supporting colour palettes available within the PHS Brand guidelines. The tables show the name, swatch, and the hex and RGB values for recreating this colours within digital products. 
+The below tables show the main and supporting colour palettes available within the PHS Brand guidelines. The tables show the name, swatch, and the hex and RGB values for recreating these colours within digital products. 
 
 #### Main colour palette
 

@@ -1,4 +1,4 @@
-# Recommendations on Global Options in Posit Workbench RStudio
+# Recommended Global Options for RStudio
 
 ## Purpose
 
