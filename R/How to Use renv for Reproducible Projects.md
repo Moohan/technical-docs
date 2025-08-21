@@ -37,9 +37,9 @@ Pre-requisite: a project (preferably version-controlled using git).
 5. Calling `renv::status()` should now confirm everything's synced.
 6. Commit the changes in the renv.lock file using version control.
    - The `.gitignore` should have been updated to exclude files/directories that shouldn't be tracked, but the `.gitignore` itself may need to be committed here.
-   - `.Rprofile` - A project-level file that gets things running by calling the `activate.R` script.
-   - `renv/activate.R` - The code that gets the environment set up and does all the necessary background work.
-   - `renv.lock` - The description of the project's dependencies to be reproduced.
+   - `.Rprofile`: project-level file that sources `renv/activate.R`.
+   - `renv/activate.R`: sets up the environment and performs the required background work.
+   - `renv.lock`: records the project's dependencies to reproduce the environment.
 
 ### Restoring the environment
 
