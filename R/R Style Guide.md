@@ -75,7 +75,7 @@ Checks, conditional operations and warnings should be built into code in order t
 ```{r}
 x <- 9
 if (x <= 10) {
-  warning("`x` must be greater than 10 to produce a model.")
+  warning("`x` must be less than 10 to produce a model.")
   result <- NA
 } else {
   result <- coef(glm(rpois(x, lambda = 5) ~ 1))
