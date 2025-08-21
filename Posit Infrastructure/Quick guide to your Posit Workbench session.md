@@ -13,7 +13,7 @@
 
 ## How much memory do I need?
 
-Computer random access memory (RAM) gives applications a place to store and access data that are being actively used, and to do so quickly. This is referred as memory.
+Computer random access memory (RAM) gives applications a place to store and access data that are being actively used, and to do so quickly. This is referred to as memory.
 Your session needs to have sufficient memory available to be able to load the required data into memory and load the required packages. Use the table below as a starting point:
 
 | Number of rows | Number of columns | Session memory recommendation |
