@@ -104,7 +104,7 @@ There are a number of tools available for testing accessibility, including:
 * Double value axes should not be used. Use two charts instead.
 * Include instructions for interacting with charts.
 * Chart titles should be coded as text, not as images. Include a title above the chart to ensure that this is read by a screen reader prior to the chart.
-* Output resolution should be set to take account the intended destination. If a chart is pasted from Excel into Word and resized, the image can become pixelated, and the font size can fall below the required size.
+* Output resolution should be set to take account of the intended destination. If a chart is pasted from Excel into Word and resized, the image can become pixelated, and the font size can fall below the required size.
 * Ensure that chart elements will not be clipped or hidden when users change display options - for example, text spacing, resolution, resizing, contrast (see [Reflow WCAG 1.4.10](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html) for more guidance, particularly around avoiding losing functionality beyond 400% zoom).
 * Do not do the following:
   * use colour alone to convey information (see [Use of colour WCAG 1.4.1](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color.html)). Alternative options include:
