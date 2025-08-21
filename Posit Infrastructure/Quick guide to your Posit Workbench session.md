@@ -13,7 +13,7 @@
 
 ## How much memory do I need?
 
-Computer random access memory (RAM) gives applications a place to store and access data that are being actively used, and to do so quickly. This is referred to as memory.
+Computer random access memory (RAM) gives applications a place to store and quickly access data that are actively in use. This is referred to as memory.
 Your session needs to have sufficient memory available to be able to load the required data into memory and load the required packages. Use the table below as a starting point:
 
 | Number of rows | Number of columns | Session memory recommendation |
@@ -78,10 +78,10 @@ If your session tries to use more memory than requested the session will close. 
 
 ## My profile is too small: how can I request more memory/CPU?
 *	Your Kubernetes profile is initially set to 1 CPU and a maximum of 4096 MB of memory.
-*	If you find you need more CPU/memory [please complete this form](https://forms.office.com/e/VEutAJ8p9Y)
+*	If you find you need more CPU/memory, please complete this form](https://forms.office.com/e/VEutAJ8p9Y)
   
 ## Further general information about Posit Workbench sessions:
 *	[Best Practice with R in Posit Workbench](Best%20Practice%20with%20R%20in%20Posit%20Workbench.md)
-*	[Recommendations on Global Options in Posit Workbench RStudio](Recommended%20Global%20Options%20for%20RStudio.md)
+* [Recommended Global Options for RStudio](Recommended%20Global%20Options%20for%20RStudio.md)
 
 
