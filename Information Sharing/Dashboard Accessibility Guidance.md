@@ -116,7 +116,7 @@ There are a number of tools available for testing accessibility, including:
   * have internal scrollbars on large chunks of text or use borders and backgrounds for charts
   * use text that is too small
   * use white space/images as padding
-  * map tool tips are underlined like links when they are not links.
+  * map tooltips are underlined like links when they are not links.
 
 ## Branding and corporate colours
 
