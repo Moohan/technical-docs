@@ -41,7 +41,7 @@ There are a number of tools available for testing accessibility, including:
 ## Code
 
 * Ensure that the language attribute is set to "en" (see [Language of page WCAG 3.1.1](https://www.w3.org/WAI/WCAG21/Understanding/language-of-page.html)).
-* Ensure the main heading is marked up as such (see [Info and relationships WCAG 1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html)). This is particularly important for each new "tab" or "page" you build within the dashboard.
+* Ensure the main heading is marked up as such (see [Info and relationships WCAG 1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)). This is particularly important for each new "tab" or "page" you build within the dashboard.
 * Headers (H1 to H6) should be used to denote content levels, not as a convenient way to style text.
 * Header levels should start at H1 and proceed in order as appropriate - for example, don't start at H2, with no H1 or don't jump from H1 to H3.
 * The visual appearance of headers should match the programmatic level - for example, H1 should appear more prominent than H2.
