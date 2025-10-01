@@ -48,7 +48,7 @@ The Posit Workbench server is accessed via a web browser. To log in, follow the 
 1. From the screen shown above, click the "+ New Session" button (circled in red above)
 
 2. This will provide a pop-up with some options, as shown below for how to set up your session:
-    - The 'Session Name' can be left as the default, or you can provide something more specific for you to identify. This could be useful if you require multiple sessions open at once.
+    - The 'Session Name' can be left as the default, or you can provide something more specific for you to identify the session later. This could be useful if you require multiple sessions open at once.
     - The 'Editor' allows you to select an IDE (Integrated Development Environment): RStudio (default), Jupyter Lab, Jupyter Notebook, or VS Code.
     - 'Cluster' can only be Kubernetes
     - There is separate guidance for selecting a suitable session size in [Posit Workbench and Kubernetes](Posit%20Workbench%20and%20Kubernetes.md).
