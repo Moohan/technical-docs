@@ -27,7 +27,7 @@ Your session needs to have sufficient memory available to be able to load the re
 
 During your session, you can see how much memory you've used using the pie chart graphic on the Environment tab. Checking this when you use Posit Workbench will help you learn how much memory your typical sessions are likely to require. 
 
-![Memory usage pie chart](https://github.com/Public-Health-Scotland/technical-docs/assets/11084847/338dd117-417d-4436-be3a-87347176adbc)
+![Memory usage pie chart](https://github.com/Public-Health-Scotland/technical-docs/assets/110984847/338dd117-417d-4436-be3a-87347176adbc)
 
 Remember you can also remove unused data frames from memory as suggested in the "Coding with R Section" of the [Best Practice with R in Posit Workbench](Best%20Practice%20with%20R%20in%20Posit%20Workbench.md) document.  
 
